@@ -8,5 +8,3 @@ def display_rainbow(array)
   puts "I: #{array[5]}"
   puts "V: #{array[6]}"
 end
-
-
